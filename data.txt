@@ -1,0 +1,3 @@
+sandile.j.mnqayi@axcemengine % npx tsc --project tsconfig.json
+
+sandile.j.mnqayi@axcemengine % npx node dist/main.js
